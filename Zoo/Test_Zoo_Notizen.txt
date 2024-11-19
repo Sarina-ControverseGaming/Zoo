@@ -1,0 +1,9 @@
+- Sicheres Ändern von Variablen (Getter/Setter)
+- Methoden befüllen
+- if-Bedingungen
+- Schleifen
+- Vererbung
+- Sortier-Algorithmen
+- Rekursion
+- eigene Enum-Klasse
+- 
